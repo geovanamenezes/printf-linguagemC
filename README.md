@@ -3,17 +3,17 @@ Exercícios simples utilizando variáveis de inicialização e printf na linguag
 
 # Descrição do que foi feito:
 Exercício 1 - 
-1 – Faça um programa em C com três variáveis do tipo int. Coloque um valor em cada
+Faça um programa em C com três variáveis do tipo int. Coloque um valor em cada
 uma dessas variáveis e apresente esses valores na tela utilizando:
 a) três chamadas da funções printf
 b) uma única chamada da função printf
 
 Exercício 2 - 
-– Repita o exercício anterior, porém utilize variáveis float. Apresente os valores com
+Repita o exercício anterior, porém utilize variáveis float. Apresente os valores com
 duas e três casas decimais.
 
 Exercício 3 -
-– Use como exemplo o código abaixo
+Use como exemplo o código abaixo
 #include <stdio.h>
 int main()
 {
